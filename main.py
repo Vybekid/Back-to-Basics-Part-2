@@ -32,4 +32,5 @@ print(bagatata.horsepower)
 
 
 #Now we are going to learn about methods
+#A method is just a function that is in a class
 
